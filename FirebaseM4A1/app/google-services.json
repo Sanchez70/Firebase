@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2235100244",
+    "project_id": "fir-m4a",
+    "storage_bucket": "fir-m4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2235100244:android:187fd0d0cc729e8bff11c1",
+        "android_client_info": {
+          "package_name": "com.ista.firebasem4a1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-bhqdg3GxlMC09Lf1O0Bos63tk1z0TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
